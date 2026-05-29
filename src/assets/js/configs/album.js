@@ -9,7 +9,7 @@ export default [
   {
     title: {
       zh: '摄影',
-      en: 'Photographys',
+      en: 'Photography',
     },
     photos: [
       '/album/photography/1.jpg',
